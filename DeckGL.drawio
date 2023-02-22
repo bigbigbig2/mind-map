@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T09:45:21.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uil8GpCp6TUJWZ932CKb" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T14:33:59.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IlJOUCFhV31xaGSaYlen" version="20.8.22" type="github">
   <diagram name="第 1 页" id="P9t2RC2k75KREn3W-97-">
     <mxGraphModel dx="2504" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U00k44nBWP5hFbAEq7iG-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="U00k44nBWP5hFbAEq7iG-27" value="墨卡托/像素/世界空间" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-800" y="80" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hXN5MZDR5_vwzj8-u30s-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="hXN5MZDR5_vwzj8-u30s-1" target="hXN5MZDR5_vwzj8-u30s-3" edge="1">
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="U00k44nBWP5hFbAEq7iG-32" value="上面的情况为输入的数据是地理坐标的情况下，而需要采样web墨卡托坐标来计算后，绘制在屏幕中&lt;br&gt;如果输入的数据直接就是web墨卡托的话就可以直接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-1115" y="400" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U00k44nBWP5hFbAEq7iG-33" value="投影到的画布的大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="132.5" width="150" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
