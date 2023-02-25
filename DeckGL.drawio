@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T04:23:37.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="s9yIe7oI41gD6ONYU2Sk" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T06:29:25.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5yQ_1weLz6c-5UpWxb1V" version="20.8.23" type="github" pages="2">
   <diagram name="第 1 页" id="P9t2RC2k75KREn3W-97-">
-    <mxGraphModel dx="2087" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="APESsE0bnVP-rjU41OoM-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-330" y="442.5" width="760" height="447.5" as="geometry" />
         </mxCell>
         <mxCell id="U00k44nBWP5hFbAEq7iG-27" value="墨卡托/像素/世界空间" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;rounded=0;" parent="1" vertex="1">
@@ -150,91 +150,91 @@
         <mxCell id="U00k44nBWP5hFbAEq7iG-33" value="投影到的画布的大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="55" y="605" width="150" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据投影&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据投影&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-125" y="195" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-3" value="etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-3" value="etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-305" y="270" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-5" value="Web Mercator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-5" value="Web Mercator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-35" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;WGS84&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;WGS84&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-235" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="APESsE0bnVP-rjU41OoM-8" target="APESsE0bnVP-rjU41OoM-5">
+        <mxCell id="APESsE0bnVP-rjU41OoM-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="APESsE0bnVP-rjU41OoM-8" target="APESsE0bnVP-rjU41OoM-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-5" y="220" as="sourcePoint" />
             <mxPoint x="45" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-10" value="数据投影" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-10" value="数据投影" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-125" y="275" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;观测矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;观测矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="195" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="220" as="targetPoint" />
             <mxPoint x="280" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-15" value="裁剪空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-15" value="裁剪空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投影矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投影矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="195" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="220" as="targetPoint" />
             <mxPoint x="480" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-18" value="屏幕空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-18" value="屏幕空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视口变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视口变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="195" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="APESsE0bnVP-rjU41OoM-5">
+        <mxCell id="APESsE0bnVP-rjU41OoM-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="APESsE0bnVP-rjU41OoM-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="300" as="targetPoint" />
             <mxPoint x="90" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-30" value="观测空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-30" value="观测空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;观测矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;观测矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="275" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="300" as="targetPoint" />
             <mxPoint x="280" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-33" value="裁剪空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-33" value="裁剪空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投影矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投影矩阵&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="275" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="300" as="targetPoint" />
             <mxPoint x="480" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-36" value="屏幕空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-36" value="屏幕空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视口变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="APESsE0bnVP-rjU41OoM-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视口变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="275" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APESsE0bnVP-rjU41OoM-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="APESsE0bnVP-rjU41OoM-38" target="APESsE0bnVP-rjU41OoM-10">
+        <mxCell id="APESsE0bnVP-rjU41OoM-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="APESsE0bnVP-rjU41OoM-38" target="APESsE0bnVP-rjU41OoM-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="570" as="sourcePoint" />
             <mxPoint x="270" y="520" as="targetPoint" />
@@ -243,6 +243,129 @@
               <mxPoint x="-60" y="390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fYOzUMtWiLj_OTf8CUa6" name="mapboxLayer">
+    <mxGraphModel dx="2487" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-10" width="1810" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="80" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-1" value="new mapboxLayer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="-10" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-4" target="Mfl75aRO7taywiF4IVgZ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-4" value="getDeckInstance(map,gl,deck)&lt;br&gt;构建deck实例对象" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="130" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-6" target="Mfl75aRO7taywiF4IVgZ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-6" value="addLayer(this.deck, this)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="225" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-12" target="Mfl75aRO7taywiF4IVgZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-12" value="afterRender(deckInstance, map)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="185" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-4" target="Mfl75aRO7taywiF4IVgZ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="180" as="sourcePoint" />
+            <mxPoint x="390" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-15" value="deck._drawLayers&lt;br&gt;重绘deck中的所有layers和views" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="185" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-18" target="Mfl75aRO7taywiF4IVgZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-18" value="map.on(&#39;move&#39;, () =&amp;gt; onMapMove(deckInstance, map));" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;相机/视图同步更新&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="285" y="100" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-1" target="Mfl75aRO7taywiF4IVgZ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="110" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-30" target="Mfl75aRO7taywiF4IVgZ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-30" value="deck.setProps({viewState: getViewState(map)})" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="70" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-32" value="&lt;div style=&quot;color: rgb(239, 239, 239); background-color: rgb(42, 52, 71); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;&lt;div&gt;return {&lt;span style=&quot;color: rgb(159, 207, 249);&quot;&gt;longitude:&lt;/span&gt; ((&lt;span style=&quot;color: rgb(159, 207, 249);&quot;&gt;lng&lt;/span&gt; &lt;span style=&quot;color: rgb(57, 158, 244);&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: rgb(229, 148, 155);&quot;&gt;540&lt;/span&gt;) &lt;span style=&quot;color: rgb(57, 158, 244);&quot;&gt;%&lt;/span&gt; &lt;span style=&quot;color: rgb(229, 148, 155);&quot;&gt;360&lt;/span&gt;) &lt;span style=&quot;color: rgb(57, 158, 244);&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;color: rgb(229, 148, 155);&quot;&gt;180&lt;/span&gt;,&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;latitude:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;lat&lt;/span&gt;,&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;zoom:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;map&lt;/span&gt;.&lt;span style=&quot;color: #21c5c7;&quot;&gt;getZoom&lt;/span&gt;(),&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;bearing:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;map&lt;/span&gt;.&lt;span style=&quot;color: #21c5c7;&quot;&gt;getBearing&lt;/span&gt;(),&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;pitch:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;map&lt;/span&gt;.&lt;span style=&quot;color: #21c5c7;&quot;&gt;getPitch&lt;/span&gt;(),&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;padding:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;map&lt;/span&gt;.&lt;span style=&quot;color: #21c5c7;&quot;&gt;getPadding&lt;/span&gt;(),&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9fcff9;&quot;&gt;repeat:&lt;/span&gt; &lt;span style=&quot;color: #9fcff9;&quot;&gt;map&lt;/span&gt;.&lt;span style=&quot;color: #21c5c7;&quot;&gt;getRenderWorldCopies&lt;/span&gt;()&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;};&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="275" width="450" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;将mapbox的相机参数传递给deck&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-35" value="渲染环境准备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-37" target="Mfl75aRO7taywiF4IVgZ-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="290" />
+              <mxPoint x="940" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-37" value="deck.userData.mapboxLayers.add(layer)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-39" value="将deck的layer添加到mapbox中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-42" value="&lt;div style=&quot;color: rgb(239, 239, 239); background-color: rgb(42, 52, 71); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 24px; font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;function&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(33, 197, 199); font-size: 11px;&quot;&gt;updateLayers&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deck&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 176, 113); font-size: 11px;&quot;&gt;Deck&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 176, 113); font-size: 11px;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; ((&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deck&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;userData&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;as&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 176, 113); font-size: 11px;&quot;&gt;UserData&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;isExternal&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;return&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;layers&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 176, 113); font-size: 11px;&quot;&gt;Layer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;[] &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; [];&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; (&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deck&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;userData&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;as&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 176, 113); font-size: 11px;&quot;&gt;UserData&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;mapboxLayers&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 197, 199); font-size: 11px;&quot;&gt;forEach&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deckLayer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;LayerType&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deckLayer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;props&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;type&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;layer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(57, 158, 244); font-size: 11px;&quot;&gt;new&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(33, 197, 199); font-size: 11px;&quot;&gt;LayerType&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deckLayer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;props&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;layers&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 197, 199); font-size: 11px;&quot;&gt;push&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;layer&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; });&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;deck&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 197, 199); font-size: 11px;&quot;&gt;setProps&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;({&lt;/span&gt;&lt;span style=&quot;color: rgb(159, 207, 249); font-size: 11px;&quot;&gt;layers&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;});&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 239, 239); font-size: 11px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="410" width="440" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;创建相应deck Layer实例&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="720" y="410" width="140" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-47" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;onAdd(map,gl)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="Mfl75aRO7taywiF4IVgZ-47" target="Mfl75aRO7taywiF4IVgZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfl75aRO7taywiF4IVgZ-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设置deck相机状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
