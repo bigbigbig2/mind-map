@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T11:28:41.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.1" etag="TLdExinZdewo-2rV_XTf" type="github">
-  <diagram name="第 1 页" id="RBNpumohkhAx8aM1IRf8">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-03-31T03:20:01.966Z" agent="Mozilla/5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1" etag="70jPb-oNtMCYjbOCeJH-" version="21.1.1" type="github">
+  <diagram name="系统模块设计" id="RBNpumohkhAx8aM1IRf8">
+    <mxGraphModel dx="684" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dnhsHH3ftpFmGh4BQxDc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="480" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dnhsHH3ftpFmGh4BQxDc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
