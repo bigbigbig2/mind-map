@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T03:20:01.966Z" agent="Mozilla/5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1" etag="70jPb-oNtMCYjbOCeJH-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T14:25:23.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jdrkb8xl2EszDr0WMV56" version="21.1.2" type="github">
   <diagram name="系统模块设计" id="RBNpumohkhAx8aM1IRf8">
-    <mxGraphModel dx="684" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dnhsHH3ftpFmGh4BQxDc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dnhsHH3ftpFmGh4BQxDc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="120" width="480" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="dnhsHH3ftpFmGh4BQxDc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="dnhsHH3ftpFmGh4BQxDc-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot;&gt;封装webgl上下文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-j6yc31V1ZAkloM5so_-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot;&gt;封装着色器程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-j6yc31V1ZAkloM5so_-5" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
