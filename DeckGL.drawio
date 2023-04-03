@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T14:58:53.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xHXKh4JG9vkZGiJ_qKrm" version="21.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-03T15:18:52.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b_EJccJbpCDQJ-yoZcdC" version="21.1.2" type="github" pages="4">
   <diagram name="camera" id="P9t2RC2k75KREn3W-97-">
     <mxGraphModel dx="2150" dy="1915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,13 +419,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YSv33DPT3TMB7hlNx0Dn" name="new Deck">
-    <mxGraphModel dx="2113" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2913" dy="1236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="190" width="386" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-7" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RnxX-nxJ6XU1OZlBLW6x-1" target="RnxX-nxJ6XU1OZlBLW6x-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -441,6 +438,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="-10" as="sourcePoint" />
             <mxPoint x="-120" y="-140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-240" y="-110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-5" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RnxX-nxJ6XU1OZlBLW6x-3" target="RnxX-nxJ6XU1OZlBLW6x-4">
@@ -458,32 +458,47 @@
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-6" value="_createAnimationLoop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-480" y="80" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RnxX-nxJ6XU1OZlBLW6x-9" target="RnxX-nxJ6XU1OZlBLW6x-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-34" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="RnxX-nxJ6XU1OZlBLW6x-33">
+          <mxGeometry x="-0.2674" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-9" value="new AnimationLoop(luma.gl)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-500" y="200" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-520" y="160" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-14" value="onCreateContext" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-14" value="onCreateContext&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;初始化webgl上下文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-690" y="140" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-15" value="init webgl context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="142.5" width="150" height="35" as="geometry" />
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RnxX-nxJ6XU1OZlBLW6x-16" target="RnxX-nxJ6XU1OZlBLW6x-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-770" y="224" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-960" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-16" value="onInitialize" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-16" value="onInitialize&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;给webgl全局上下文配置参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-690" y="200" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-17" value="onRender" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-17" value="onRender&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;在每个动画帧上调用&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-690" y="260" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-19" value="给webgl全局上下文配置参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="205" width="230" height="30" as="geometry" />
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-32" value="this.animationLoop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-24" value="在每个动画帧上调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="265" width="170" height="30" as="geometry" />
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-48" value="init source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="340" width="200" height="230" as="geometry">
+            <mxRectangle x="-970" y="185" width="170" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-26" value="核心封装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-982" y="234.5" width="82" height="31" as="geometry" />
+        <mxCell id="RnxX-nxJ6XU1OZlBLW6x-51" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;setParameters&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new EventManager&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new ViewManage&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new EffectManager&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new LayerManager&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new DeckRenderer&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new DeckPicker&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;this.setProps&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;this._updateCanvasSize&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="RnxX-nxJ6XU1OZlBLW6x-48">
+          <mxGeometry y="26" width="200" height="204" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
