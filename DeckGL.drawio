@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T15:18:52.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b_EJccJbpCDQJ-yoZcdC" version="21.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-03T15:19:36.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jYgtlSaRMFccJnnPc0_Z" version="21.1.2" type="github" pages="4">
   <diagram name="camera" id="P9t2RC2k75KREn3W-97-">
     <mxGraphModel dx="2150" dy="1915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
         </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-48" value="init source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="340" width="200" height="230" as="geometry">
-            <mxRectangle x="-970" y="185" width="170" height="20" as="alternateBounds" />
+            <mxRectangle x="-1270" y="340" width="170" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RnxX-nxJ6XU1OZlBLW6x-51" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;setParameters&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new EventManager&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new ViewManage&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new EffectManager&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new LayerManager&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new DeckRenderer&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;new DeckPicker&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;this.setProps&lt;/div&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;this._updateCanvasSize&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="RnxX-nxJ6XU1OZlBLW6x-48">
