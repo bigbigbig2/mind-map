@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T14:27:58.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Zh3VG1ZhKwR-kvWIURPa" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-21T02:02:48.342Z" agent="Mozilla/5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1" etag="As16p6eU8mDsLMzqjwex" version="21.2.1" type="github" pages="2">
   <diagram name="系统模块设计" id="RBNpumohkhAx8aM1IRf8">
-    <mxGraphModel dx="1215" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,10 +96,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j8cLhZTwa0FT_HdkZZDA" name="DOM tree">
-    <mxGraphModel dx="1050" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UxtpI433hf9iyLHWkhIq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHt4l7gkKZMOyyc61yfa-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="40" />
+              <mxPoint x="120" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxtpI433hf9iyLHWkhIq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHt4l7gkKZMOyyc61yfa-1" target="UxtpI433hf9iyLHWkhIq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHt4l7gkKZMOyyc61yfa-1" value="div" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxtpI433hf9iyLHWkhIq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxtpI433hf9iyLHWkhIq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.00000000000011" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxtpI433hf9iyLHWkhIq-2" value="div" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxtpI433hf9iyLHWkhIq-3" value="div" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxtpI433hf9iyLHWkhIq-7" value="canvas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
